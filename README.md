@@ -21,7 +21,7 @@ Mentor Engineering College , Muvattupuzha
 - Communication Skills                                                 
 - Team work
 - Leadership
-- 
+  
 ## Programming Languages Known
 - Python
 - C
