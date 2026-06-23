@@ -24,6 +24,10 @@ function Contact() {
             <strong>GitHub:</strong>
             <a href="https://github.com/Anusreya2007" target="_blank" rel="noreferrer">GitHub Profile</a>
           </p>
+          <p>
+            <strong>Website:</strong>
+            <a href="https://anusreyaprofile2772007.vercel.app" target="_blank" rel="noreferrer">anusreyaprofile2772007.vercel.app</a>
+          </p>
         </div>
       </div>
 

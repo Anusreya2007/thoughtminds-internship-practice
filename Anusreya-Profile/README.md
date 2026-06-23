@@ -1,16 +1,22 @@
-# React + Vite
+# Anusreya P M | Professional Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern, responsive, and premium portfolio website built using React 19, Vite 8, and custom styling rules.
 
-Currently, two official plugins are available:
+🔗 **Live Deployment Link**: [anusreyaprofile2772007.vercel.app](https://anusreyaprofile2772007.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- **Frontend**: React 19, Vite 8, CSS3
+- **Typography**: Outfit (Google Fonts)
+- **Deployment**: Vercel
 
-## React Compiler
+## Components Index
+- `src/components/Navbar.jsx`: Sticky brand navigation.
+- `src/components/Hero.jsx`: Main profile introduction with quick links.
+- `src/components/About.jsx`: Detail on current studies, department, and career aspirations.
+- `src/components/Skills.jsx`: Styled categorization of technical stack and soft skills.
+- `src/components/Projects.jsx`: Showcasing the "Fix-IT-Now" campus platform.
+- `src/components/Education.jsx`: Academic timeline panel showing completion goals and CGPA.
+- `src/components/Certifications.jsx`: Showcase of credentials.
+- `src/components/Contact.jsx`: Communication portal linking to social handles, email, and site URL.
+- `src/components/Footer.jsx`: End branding line.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
